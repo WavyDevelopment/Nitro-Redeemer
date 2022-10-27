@@ -1,4 +1,4 @@
-# Nitro-Redeemer by Rdimo0
+# Nitro-Redeemer by Rdimo0 
 
 # `SETUP 💻`
 `pip install httpx`
@@ -11,7 +11,8 @@
 
 `Enter Vcc uses and threads in config.json`
 
-`run python main.py`
+`run python main.py` 
 
 Star my repo and follow my github.
 
+   
